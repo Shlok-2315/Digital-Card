@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Shlok Mukhi
+TITLE:Entrepreneur in Residence
+ORG:Shiv Shakti Oxalate Pvt. Ltd.;Pioneers in Solvent Recycling
+EMAIL;TYPE=INTERNET:shlok@ssopl.co.in
+TEL;TYPE=WORK,VOICE:+91 9769001508
+item1.URL;TYPE=pref:https://wa.me/919769001508
+item1.X-ABLabel:WhatsApp
+URL:www.ssopl.co.in
+item2.URL;TYPE=pref:https://www.linkedin.com/in/shlok-mukhi-15823sh/
+item2.X-ABLabel:LinkedIn
+END:VCARD
